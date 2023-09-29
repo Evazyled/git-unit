@@ -1,1 +1,1 @@
-conslo.log()
+console.log('hello')
